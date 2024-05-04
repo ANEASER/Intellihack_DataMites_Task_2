@@ -1,0 +1,106 @@
+Text,Intent
+Hey there,Greet
+Good morning,Greet
+What's up,Greet
+Good to see you,Greet
+How's everything,Greet
+How's your day,Greet
+Nice to meet you,Greet
+Long time no see,Greet
+What's new,Greet
+How have you been,Greet
+How's life,Greet
+Goodbye,Farewell
+See you later,Farewell
+Take care,Farewell
+Farewell my friend,Farewell
+Have a great day,Farewell
+Until we meet again,Farewell
+Bye for now,Farewell
+Catch you later,Farewell
+Adieu,Farewell
+So long,Farewell
+What's the weather,Inquiry
+Recommendations local attractions,Inquiry
+Best way to lose weight,Inquiry
+How to file taxes,Inquiry
+Recommend a good movie,Recommendation
+Good book to read,Recommendation
+Weekend getaway suggestions,Recommendation
+Recommend reliable car brand,Recommendation
+Good laptop for programming,Recommendation
+Beginner's camera recommendations,Recommendation
+Good restaurant for a date,Recommendation
+Best way to learn guitar,Recommendation
+Skincare routine recommendation,Recommendation
+Resume improvement suggestions,Recommendation
+Good recipe for dinner,Recommendation
+Recommend a good online course,Recommendation
+Recommend eco-friendly products,Recommendation
+Good TED Talks,Recommendation
+Learn meditation,Recommendation
+Good podcast,Recommendation
+Budgeting app recommendation,Recommendation
+Good mindfulness app,Recommendation
+Finance podcast recommendation,Recommendation
+Good yoga YouTube channel,Recommendation
+Budget travel destination,Recommendation
+Audiobooks for self-improvement,Recommendation
+Self-help book recommendation,Recommendation
+Habit-tracking app,Recommendation
+History podcast recommendation,Recommendation
+Hi there,Greet
+Good afternoon,Greet
+How are you,Greet
+Nice to see you,Greet
+How's your day going,Greet
+Nice meeting you,Greet
+Long time no talk,Greet
+Hello,Greet
+See you later,Greet
+Take care,Greet
+Farewell my friend,Greet
+Have a great day,Greet
+Until we meet again,Greet
+Bye for now,Greet
+Catch you later,Greet
+Adieu,Greet
+So long,Greet
+See ya,Farewell
+Gotta go now,Farewell
+Time to go,Farewell
+Have a good one,Farewell
+So long farewell,Farewell
+Stay safe,Farewell
+Goodbye for now,Farewell
+Enjoy your day,Farewell
+Till next time,Farewell
+How's the weather,Inquiry
+Can you check the time,Inquiry
+Where can I find food,Inquiry
+Traffic update,Inquiry
+Directions to the bus stop,Inquiry
+Need a pharmacy,Inquiry
+Current temperature,Inquiry
+See ya,Greet
+Take care,Greet
+Farewell,Greet
+Have a great day,Greet
+Until next time,Greet
+Catch you later,Farewell
+Time to go,Farewell
+Have a good one,Farewell
+Stay safe,Farewell
+Till next time,Farewell
+Weather,Inquiry
+Time,Inquiry
+Food nearby,Inquiry
+Traffic,Inquiry
+Bus stop,Inquiry
+Pharmacy,Inquiry
+Temperature,Inquiry
+Eateries nearby,Inquiry
+Gas station distance,Inquiry
+Local attractions,Inquiry
+Lose weight,Inquiry
+File taxes,Inquiry
